@@ -4,7 +4,7 @@ description: Decomposes software specifications into executable, dependency-awar
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.0"
+  version: "0.5.1"
 ---
 
 # tasks
