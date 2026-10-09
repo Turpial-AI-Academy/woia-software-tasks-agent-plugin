@@ -1,24 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "tasks",
-  "skill": "tasks",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/tasks-agent-plugin",
-    "version": "1.0.1",
-    "commit": "e28f93342af573c2c7c54a34057b674cf5d8e3c9"
-  },
-  "migrated_portable_paths": [
-    "skills/tasks/SKILL.md",
-    "skills/tasks/assets/README.md",
-    "skills/tasks/assets/task.template.md",
-    "skills/tasks/assets/tasks-index.template.md",
-    "skills/tasks/references/DEPENDENCIES.md",
-    "skills/tasks/references/READINESS.md",
-    "skills/tasks/references/README.md",
-    "skills/tasks/references/TASK_MODEL.md",
-    "skills/tasks/references/VALIDATION.md"
-  ]
+  "skill": "tasks"
 }
